@@ -566,13 +566,27 @@ Potential future enhancements include:
 
 ---
 
+---
+
 ## 🔗 Connect With Me
 
-**Portfolio:** [Kanishka Agarwal](https://kanishka-agarwal-data-analyst-portfolio.ai.studio)
+<p align="center">
+  <a href="https://kanishka-agarwal-data-analyst-portfolio.ai.studio"><b>Portfolio</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/kanishka-agarwal-485499333/"><b>LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/kashishaggarwal987-gif"><b>GitHub</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:kashishaggarwal987@gmail.com"><b>Email</b></a>
+</p>
 
-**LinkedIn:** [Kanishka Agarwal](https://www.linkedin.com/in/kanishka-agarwal-485499333/)
+<p align="center">
+  <i>Turning data into meaningful insights and better business decisions.</i>
+</p>
 
-**GitHub:** [kashishaggarwal987-gif](https://github.com/kashishaggarwal987-gif)
+---
+---
+---
 
 **Email:** [kashishaggarwal987@gmail.com](mailto:kashishaggarwal987@gmail.com)
 
